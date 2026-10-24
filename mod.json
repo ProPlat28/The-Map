@@ -1,0 +1,26 @@
+{
+    "geode": "5.11.2",
+    "version": "v1.0.0",
+    "id": "proplat.the-map",
+    "name": "The Map",
+    "developer": "ProPlat",
+    "description": "This mod adds The Map.",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081"
+    },
+    "early-load": true,
+    "tags": [
+        "universal",
+        "joke"
+    ],
+    "links": {
+        "source": "https://github.com/ProPlat28/The-Map"
+    },
+    "resources": {
+        "files": [
+            "resources/textures/*.zip",
+            "resources/levels/*.txt"
+        ]
+    }
+}
